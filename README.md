@@ -46,7 +46,7 @@ The analysis focuses on identifying key trends in shooting volume, efficiency, a
   </p>
 - The number of high-volume three-point shooters has grown significantly in recent seasons.
   <p align="center">
-  <img src="images/EDA_charts/3_Count_Players_HighVolumen_Shooting.png" width="700">
+  <img src="images/EDA_charts/3_Count_Players_HighVolume_Shooting.png" width="700">
   </p>
 - Power forwards and centers have increasingly incorporated three-point shooting into their games.
   <p align="center">
