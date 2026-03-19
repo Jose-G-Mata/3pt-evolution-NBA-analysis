@@ -1,3 +1,6 @@
+  <p align="center">
+  <img src="https://cdn.nba.com/manage/2021/10/3point-lead-graphic.png" width="700">
+  </p>
 # NBA 3-Point Evolution Analysis
 
 This project explores how the use of the three-point shot in the NBA has evolved since its introduction during the season 1979-80. 
@@ -8,6 +11,7 @@ Using SQL for analysis and Tableau for visualization, the project examines chang
 - [Key Questions](#key-questions)
 - [Tools Used](#tools-used)
 - [Project Workflow](#project-workflow)
+- [Project Reports](#project-reports)
 - [Key Insights](#key-insights)
 
 ## Project Overview
@@ -52,18 +56,25 @@ The analysis focuses on identifying key trends in shooting volume, efficiency, a
 - The rate of three-point attempts has increased dramatically since the mid-2010s.
   <p align="center">
   <img src="images/EDA_charts/1_3PRate_vs_Efficiency.png" width="700">
+  <br>
+  <em>Figure 1: Evolution of three-point attempt rate in the NBA vs Efficiency.</em>
   </p>
 - Despite the increase in attempts, league-wide three-point efficiency has remained relatively stable.
   <p align="center">
   <img src="images/EDA_charts/2_Teams_Efficiency_vs_3PRate.png" width="700">
+  <br>
+  <em>Figure 2: Team Distribution by Efficiency Vs Attempts.</em>
   </p>
 - The number of high-volume three-point shooters has grown significantly in recent seasons.
   <p align="center">
   <img src="images/EDA_charts/3_Count_Players_HighVolume_Shooting.png" width="700">
+  <br>
+  <em>Figure 3: Count of 3-Point Shooters over Total Players by Season.</em>
   </p>
 - Power forwards and centers have increasingly incorporated three-point shooting into their games.
   <p align="center">
   <img src="images/EDA_charts/5_3PRate_by_positions.png" width="45%">
   <img src="images/EDA_charts/6_PF_C_evolution.png" width="45%">
+  <br>
+  <em>Figures 4-5: Three-point rate evolution by positions and PF/C comparison.</em>
   </p>
-  *Figure: Three-point rate evolution by positions and PF/C comparison.*
