@@ -21,7 +21,7 @@ The analysis focuses on identifying key trends in shooting volume, efficiency, a
 
 - **SQL** – Data cleaning and analysis ![SQL](https://img.shields.io/badge/SQL-FCC624?style=flat&logo=MySQL&logoColor=white)
 - **Tableau** – Data visualization ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
-- **GitHub** – Project documentation and version control
+- **GitHub** – Project documentation and version control ![GitHub](https://https://pngimg.com/image/73347)
 
 ## Project Workflow
 
