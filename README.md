@@ -3,6 +3,13 @@
 This project explores how the use of the three-point shot in the NBA has evolved since its introduction during the season 1979-80. 
 Using SQL for analysis and Tableau for visualization, the project examines changes in league strategy, player behavior, and positional roles over time.
 
+## Contents
+- [Project Overview](#project-overview)
+- [Key Questions](#key-questions)
+- [Tools Used](#tools-used)
+- [Project Workflow](#project-workflow)
+- [Key Insights](#key-insights)
+
 ## Project Overview
 
 The three-point shot has become one of the most important elements of modern NBA offense. 
@@ -21,7 +28,7 @@ The analysis focuses on identifying key trends in shooting volume, efficiency, a
 
 - **SQL** – Data cleaning and analysis ![SQL](https://img.shields.io/badge/SQL-FCC624?style=flat&logo=MySQL&logoColor=white)
 - **Tableau** – Data visualization ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
-- **GitHub** – Project documentation and version control ![GitHub](https://https://pngimg.com/image/73347)
+- **GitHub** – Project documentation and version control 
 
 ## Project Workflow
 
