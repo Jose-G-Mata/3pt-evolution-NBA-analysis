@@ -41,5 +41,15 @@ The analysis focuses on identifying key trends in shooting volume, efficiency, a
   <img src="images/EDA_charts/1_3PRate_vs_Efficiency.png" width="700">
   </p>
 - Despite the increase in attempts, league-wide three-point efficiency has remained relatively stable.
+  <p align="center">
+  <img src="images/EDA_charts/2_Teams_Efficiency_vs_3PRate.png" width="700">
+  </p>
 - The number of high-volume three-point shooters has grown significantly in recent seasons.
+  <p align="center">
+  <img src="images/EDA_charts/3_Count_Players_HighVolumen_Shooting.png" width="700">
+  </p>
 - Power forwards and centers have increasingly incorporated three-point shooting into their games.
+  <p align="center">
+  <img src="images/EDA_charts/5_3PRate_by_positions.png" width="45%">
+  <img src="images/EDA_charts/6_PF_C_evolution.png" width="45%">
+  </p>
