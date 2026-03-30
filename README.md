@@ -92,8 +92,8 @@ You can view the full datafolio here:
 ## Interactive Dashboard
 
 Explore the dashboard here:  
-👉 [View on Tableau Public](https://public.tableau.com/views/NBA_3P_Evolution/3PEvolution?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-### Dashboard Preview
+👉 [View on Tableau Public](https://public.tableau.com/views/NBA_3P_Evolution/3PEvolution?:language=en-US&:display_count=n&:showVizHome=no)
 
-![Dashboard Preview](images/Datafolio/dashboard_1.png)
-![Dashboard Preview](images/Datafolio/dashboard_2.png)
+### Dashboard Preview
+[![Dashboard Preview 1](images/Datafolio/dashboard_1.png)](https://public.tableau.com/views/NBA_3P_Evolution/3PEvolution?:language=en-US&:display_count=n&:showVizHome=no)
+[![Dashboard Preview 2](images/Datafolio/dashboard_2.png)](https://public.tableau.com/views/NBA_3P_Evolution/3PEvolution?:language=en-US&:display_count=n&:showVizHome=no)
