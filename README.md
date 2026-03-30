@@ -14,6 +14,8 @@ Using SQL for analysis and Tableau for visualization, the project examines chang
 - [Project Workflow](#project-workflow)
 - [Project Reports](#project-reports)
 - [Key Insights](#key-insights)
+- [Datafolio](#datafolio)
+- [Interactive Dashboard](#interactive-dashboard)
 
 ## Project Overview
 
@@ -39,18 +41,19 @@ The analysis focuses on identifying key trends in shooting volume, efficiency, a
 
 1. Raw NBA statistics were collected and stored in a database.
 2. SQL queries were used to clean and prepare the data. 📄 [View the Data Curation Report](reports/2_Data_Curation.pdf)
-3. Exploratory data analysis was performed to identify trends in three-point shooting. 📄 [View the EDA Report](reports/3_EDA.pdf)
+3. Exploratory data analysis was performed to identify trends in three-point shooting. 
 4. Visualizations were created in Tableau to highlight key insights.
-5. Results were compiled into an EDA report.
-6. Datafolio was created as a project summary.
-7. Dashboard was created and published in Tableau.
-8. The final report was compiled with all insights and conclusions.
+5. Results were compiled into an EDA report. 📄 [View the EDA Report](reports/3_EDA.pdf)
+6. Datafolio was created as a project summary. 📄 [View Datafolio](images/Datafolio/three_point_evolution.pdf)
+7. Dashboard was created and published in Tableau. 👉 [View on Tableau Public](https://public.tableau.com/views/NBA_3P_Evolution/3PEvolution?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+8. The final report was compiled with all insights and conclusions. 📄 [View Final Report](reports/4_Final_Report.pdf)
 
 ## Project Reports
 
 - 📄 [Project Description & Scope](reports/1_Description_Scope.pdf) 
 - 📄 [Data Curation Report](reports/2_Data_Curation.pdf)  
 - 📄 [Exploratory Data Analysis (EDA) Report](reports/3_EDA.pdf)
+- 📄 [Final Report](reports/4_Final_Report.pdf)
 
 ## Key Insights
 
@@ -79,3 +82,16 @@ The analysis focuses on identifying key trends in shooting volume, efficiency, a
   <br>
   <em>Figures 4-5: Three-point rate evolution by positions and PF/C comparison.</em>
   </p>
+
+## Datafolio
+
+You can view the full datafolio here:  
+👉 [Download Datafolio](images/Datafolio/three_point_evolution.pdf)
+![Poster Preview](images/Datafolio/three_point_evolution.png)
+
+## Interactive Dashboard
+
+Explore the dashboard here:  
+👉 [View on Tableau Public](https://public.tableau.com/views/NBA_3P_Evolution/3PEvolution?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<iframe src="<div class='tableauPlaceholder' id='viz1774830682708' style='position: relative'><noscript><a href='#'><img alt='3P Evolution ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NB&#47;NBA_3P_Evolution&#47;3PEvolution&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NBA_3P_Evolution&#47;3PEvolution' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NB&#47;NBA_3P_Evolution&#47;3PEvolution&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1774830682708');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1300px';vizElement.style.height='1027px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>" width="100%" height="600"></iframe>
+
